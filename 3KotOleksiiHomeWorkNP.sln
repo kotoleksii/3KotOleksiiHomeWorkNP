@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3KotOleksiiHomeWorkNPstudent", "3KotOleksiiHomeWorkNP\3KotOleksiiHomeWorkNPstudent.csproj", "{6B22D8A3-B989-40A9-83A4-DF59E973C654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3KotOleksiiHomeWorkNPteacher", "3KotOleksiiHomeWorkNPclient\3KotOleksiiHomeWorkNPteacher.csproj", "{F88425E0-4FF9-4601-9D24-E395C1611C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B22D8A3-B989-40A9-83A4-DF59E973C654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B22D8A3-B989-40A9-83A4-DF59E973C654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B22D8A3-B989-40A9-83A4-DF59E973C654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B22D8A3-B989-40A9-83A4-DF59E973C654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F88425E0-4FF9-4601-9D24-E395C1611C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88425E0-4FF9-4601-9D24-E395C1611C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88425E0-4FF9-4601-9D24-E395C1611C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88425E0-4FF9-4601-9D24-E395C1611C34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6112062D-0B59-4E4A-A79D-F09E15287D1C}
+	EndGlobalSection
+EndGlobal
